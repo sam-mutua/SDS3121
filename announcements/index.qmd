@@ -1,5 +1,6 @@
 ---
 title: "Announcements"
+sidebar: false
 ---
 
 ::: {.callout-important}

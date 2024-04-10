@@ -1,5 +1,6 @@
 ---
 title: "Reading, Slides and Scripts"
+sidebar: true
 ---
 
 This gives the contents of the lectures. Every class has lecture slides. The slides can be downloaded in the given options as:

@@ -1,6 +1,6 @@
 ---
 title: ""
-sidebar: true
+sidebar: false
 page-layout: full
 course-logo: /images/imgfile.png
 ---
