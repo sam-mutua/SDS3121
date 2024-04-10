@@ -1,0 +1,11 @@
+---
+title: "Reading, Slides and Scripts"
+---
+
+This gives the contents of the lectures. Every class has lecture slides. The slides can be downloaded in the given options as:
+
+<p class="buttons" style="text-align:center;">
+
+[{{< fa arrow-up-right-from-square >}} View slides in new window]{.btn .btn-danger} [{{< fa file-pdf >}} Download PDF]{.btn .btn-danger}
+
+</p>

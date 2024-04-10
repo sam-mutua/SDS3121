@@ -12,15 +12,25 @@ website:
         Made with {{< fa brands r-project >}},<i class="fa-solid fa-heart"></i>, and [Quarto](https://quarto.org/)<br>
   navbar:
     background: "#ff9ee4"
+    pinned: true
     right:
-      - href: index.qmd
-        text: Course Description
-      - href: contents/index.qmd
-        text: Lecture Notes
-      - href: assignments/index.qmd
-        text: Assignments
-      - href: announcements/index.qmd
-        text: Announcements
+      - text: "Course Description"
+        file: index.qmd
+      - text: "Lecture Notes"
+        file: content/index.qmd
+      - text: "Assignments"
+        file: assignments/index.qmd
+      - text: "Announcements"
+        file: announcements/index.qmd
+  page-navigation: true
+  sidebar: 
+    - title: "Introduction"
+      style: "docked"
+      background: light
+      contents:
+        - section: "Overview"
+          contents:
+            - content/index.qmd
 
 format:
   html:
