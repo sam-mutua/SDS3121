@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Programming for Data Science",
+    "section": "",
+    "text": "Dr. Mutua Kilai\n   Academic Block, Lecture Lounge\n\n\n\n\n\n   Every Thursday\n Jan 2024 - April 2024\n   4.00PM- 6.00PM\n   Virtual"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#course-objective",
+    "href": "index.html#course-objective",
+    "title": "Programming for Data Science",
+    "section": "Course Objective",
+    "text": "Course Objective"
+  },
+  {
+    "objectID": "index.html#course-purpose",
+    "href": "index.html#course-purpose",
+    "title": "Programming for Data Science",
+    "section": "Course Purpose",
+    "text": "Course Purpose\nThis course introduces learners to visual tools and techniques used in modern data science to drive data driven insights"
+  },
+  {
+    "objectID": "index.html#course-outcomes",
+    "href": "index.html#course-outcomes",
+    "title": "Programming for Data Science",
+    "section": "Course Outcomes",
+    "text": "Course Outcomes\nBy the end of the course learners should be able to:\n\nDescribe the fundamental concepts of programming\nImplement and discuss statistical methods in R\nImplement and discuss statistical methods in Python"
+  },
+  {
+    "objectID": "index.html#description",
+    "href": "index.html#description",
+    "title": "Programming for Data Science",
+    "section": "Description",
+    "text": "Description\nFoundations of computer languages: algorithms, functions, variables, object-orientation, scoping, and assignment. Practical examples from computational social science and social data science. Computer programming: design, write, and debug computer programs using the programming languages R and Python. Algorithm design and program development; data types; control structures; functions and parameter passing; recursion; computational complexity; searching and sorting; and an introduction to the principles of object-oriented programming."
+  },
+  {
+    "objectID": "index.html#reference-materials",
+    "href": "index.html#reference-materials",
+    "title": "Programming for Data Science",
+    "section": "Reference Materials",
+    "text": "Reference Materials\nIn this course we will rely on the following books. This does not imply that you cannot consult any other material.\n\nGutierrez, D. D. (2015). Machine learning and data science: an introduction to statistical learning methods with R. Technics Publications\nGuttag, J. V. (2021). Introduction to Computation and Programming Using Python: With Application to Computational Modeling and Understanding Data. MIT Press.\nMiller, B. N., & Ranum, D. L. (2011). Problem solving with algorithms and data structures using python Second Edition. Franklin, Beedle & Associates Inc."
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Programming for Data Science",
+    "section": "Course Description",
+    "text": "Course Description\nFoundations of computer languages: algorithms, functions, variables, object-orientation, scoping, and assignment. Practical examples from computational social science and social data science. Computer programming: design, write, and debug computer programs using the programming languages R and Python. Algorithm design and program development; data types; control structures; functions and parameter passing; recursion; computational complexity; searching and sorting; and an introduction to the principles of object-oriented programming."
+  },
+  {
+    "objectID": "index.html#course-software",
+    "href": "index.html#course-software",
+    "title": "Programming for Data Science",
+    "section": "Course Software",
+    "text": "Course Software\nIn this course we will be learning using both R and Python\n\nR and RStudio\nWe will be using R and RStudio in this course. You can find instructions of installing R and RStudio here\n\n\nPython and Anaconda\nTo install and use Python, you can find instructions on installing anaconda here\n\n\nCourse Schedule\nThe course will run as per the Kirinyaga University Semester Dates\nDuring the course delivery, i encourage you to:\nI recommend following this general process for each session:\n\nRead what is shared as class notes ()\nWork out all the examples ()\nComplete the assignment ()\nWrite and debug codes ()"
+  },
+  {
+    "objectID": "index.html#r-and-rstudio",
+    "href": "index.html#r-and-rstudio",
+    "title": "Programming for Data Science",
+    "section": "R and RStudio",
+    "text": "R and RStudio\nWe will be using R and RStudio in this course. You can find instructions of installing R and RStudio here"
+  },
+  {
+    "objectID": "index.html#python-and-anaconda",
+    "href": "index.html#python-and-anaconda",
+    "title": "Programming for Data Science",
+    "section": "Python and Anaconda",
+    "text": "Python and Anaconda\nTo install and use Python, you can find instructions on installing anaconda here"
+  },
+  {
+    "objectID": "index.html#motivation",
+    "href": "index.html#motivation",
+    "title": "Programming for Data Science",
+    "section": "Motivation",
+    "text": "Motivation\nPlease watch this video: (How to be consistent while learning data science)"
+  },
+  {
+    "objectID": "contents/index.html",
+    "href": "contents/index.html",
+    "title": "Reading, Slides and Scripts",
+    "section": "",
+    "text": "This gives the contents of the lectures. Every class has lecture slides. The slides can be downloaded in the given options as:\n\n View slides in new window  Download PDF"
+  },
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "This page gives the weekly assignment for the course. Kindly ensure you do and submit them as instructed during the Physical Lectures."
+  },
+  {
+    "objectID": "announcements/index.html",
+    "href": "announcements/index.html",
+    "title": "Announcements",
+    "section": "",
+    "text": "Important\n\n\n\nAlways keep on referring to this page for any submission deadlines and new resources uploads."
+  }
+]

@@ -1,0 +1,9 @@
+---
+title: "Announcements"
+---
+
+::: {.callout-important}
+## Important
+
+**Always keep on referring to this page for any submission deadlines and new resources uploads.**
+:::

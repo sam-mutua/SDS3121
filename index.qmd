@@ -1,0 +1,101 @@
+---
+title: ""
+sidebar: true
+page-layout: full
+course-logo: /images/imgfile.png
+---
+
+
+::: {.home}
+
+:::: {.grid .course-details}
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+### Lecturer
+
+-  {{< fa user >}} &nbsp; [Dr. Mutua Kilai](https://sam-mutua.github.io/work/)
+-  {{< fa university >}} &nbsp; Academic Block, Lecture Lounge
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
+### Course details
+
+- {{< fa calendar >}} &nbsp; Every Thursday
+- {{< fa calendar-alt >}} Jan 2024 - April 2024
+- {{< fa clock >}} &nbsp; 4.00PM- 6.00PM
+- {{< fa location-dot >}} &nbsp; Virtual
+
+:::
+
+
+::::
+
+:::
+
+
+## Course Purpose
+
+This course introduces learners to visual tools and techniques used in modern data science to drive data driven insights
+
+## Course Outcomes
+
+By the end of the course learners should be able to:
+
+1. Describe the fundamental concepts of programming 
+
+2. Implement and discuss statistical methods in R
+
+3. Implement and discuss statistical methods in Python
+
+## Course Description
+
+Foundations of computer languages: algorithms, functions,
+variables, object-orientation, scoping, and assignment. Practical examples from computational social science and social data science. Computer programming: design, write, and debug computer programs using the programming languages R and Python. Algorithm design and program development; data types; control structures; functions and parameter passing; recursion; computational complexity; searching and sorting; and an introduction to the principles of object-oriented programming.
+
+## Reference Materials
+
+In this course we will rely on the following books. This does not imply that you cannot consult any other material.
+
+- Gutierrez, D. D. (2015). Machine learning and data science: an introduction to statistical learning methods with R. *Technics Publications*
+
+- Guttag, J. V. (2021). Introduction to Computation and Programming Using Python: With Application to Computational Modeling and Understanding Data. MIT Press.
+
+- Miller, B. N., & Ranum, D. L. (2011). Problem solving with algorithms and data structures using python Second Edition. Franklin, Beedle & Associates Inc.
+
+
+## Course Software
+
+In this course we will be learning using both [R](https://www.r-project.org/) and [Python](https://www.python.org/)
+
+
+### R and RStudio
+
+We will be using R and RStudio in this course. You can [find instructions of installing R and RStudio here](https://rstudio-education.github.io/hopr/starting.html)
+
+
+### Python and Anaconda
+
+To install and use Python, you can [find instructions on installing anaconda here](https://docs.anaconda.com/free/anaconda/install/windows/)
+
+
+### Course Schedule
+
+The course will run as per the [Kirinyaga University Semester Dates](https://www.kyu.ac.ke/)
+
+During the course delivery, i encourage you to:
+
+I recommend following this general process for each session:
+
+- Read what is shared as class notes ({{< fa book-open-reader >}})
+- Work out all the examples ({{< fa chalkboard-teacher >}})
+- Complete the assignment ({{< fa pen-ruler >}}) 
+- Write and debug codes ({{< fa laptop-code >}})
+
+## Motivation
+
+Please watch this video: <small>(*How to be consistent while learning data science*)</small>
+
+<div class="ratio ratio-16x9">
+<iframe width="912" height="513" src="https://www.youtube.com/embed/PNwRH0Tkin0" title="How To Be Consistent While Learning  Data Science?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
