@@ -1,5 +1,6 @@
 ---
 title: "Assignments"
+sidebar: false
 ---
 
 This page gives the weekly assignment for the course. Kindly ensure you do and submit them as instructed during the Physical Lectures. 

@@ -1,5 +1,11 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "!slides/"
+  resources:
+    - "slides/*.html"
+    - "slides/*.pdf"
   output-dir: docs
 
 website:
@@ -31,6 +37,10 @@ website:
         - section: "Overview"
           contents:
             - content/index.qmd
+        - section: "Lessons"
+          contents: 
+            - text: "Lesson 1: Introduction to Programming"
+              file:  content/content01.qmd
 
 format:
   html:

@@ -1,0 +1,25 @@
+---
+title: "Introduction to Programming"
+---
+
+
+```{r, echo=FALSE, include=FALSE}
+source(here::here("R", "slide-things.R"))
+```
+
+## Slides
+
+The slides for today's lesson are available online as an HTML file. Navigate accordingly to see the slides. 
+
+
+```{r show-slide-tabs, echo=FALSE, results="asis"}
+slide_buttons("/slides/01-slides")
+
+xaringanExtra::embed_xaringan(
+  "/slides/01-slides.html",
+  ratio = "16:9",
+  border = "none",
+  margin = "0 auto"
+)
+```
+
