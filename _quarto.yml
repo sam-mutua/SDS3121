@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Programming for Data Science"
-  favicon: "/images/imgfile.png"
+  favicon: "files/imgfile.png"
   page-footer: 
     left: |
         Copyright 2024, Mutua Kilai <br> With inspiration from template created by [Andrew Heiss](https://www.andrewheiss.com/) 
@@ -21,7 +21,6 @@ website:
         text: Assignments
       - href: announcements/index.qmd
         text: Announcements
-      
 
 format:
   html:
